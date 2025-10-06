@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: wifi-password
 Version: 1.1.1
 Summary: Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
-Home-page: https://github.com/sdushantha/wifi-password
+Home-page: https://github.com/andryan87/wifi-password
 Author: Siddharth Dushantha
 Author-email: siddharth.dushantha@gmail.com
 License: UNKNOWN
@@ -48,10 +48,6 @@ Description: <h1 align="center">
           --ssid SSID, -s SSID  Specify a SSID that you have previously connected to
           --version             Show version number
         ```
-        
-        ## Reference
-        - This project is an improvement of [wifi-password](https://github.com/rauchg/wifi-password) created by [@rauchg](https://github.com/rauchg), where I have added support for multiple platforms and have added the feature for generating QR codes.
-        - [wifiPassword](https://github.com/ankitjain28may/wifiPassword) created by [@ankitjain28may](https://github.com/ankitjain28may) was frequently used as reference throughout the development of this project.
         
 Platform: UNKNOWN
 Description-Content-Type: text/markdown
